@@ -1,0 +1,5 @@
+{
+  "name": "Drunkify",
+  "description": "An AI-powered web app that applies a fun 'party night' filter to your photos. Upload an image, and let the AI add glowing lights, confetti, and playful props to get your party face on!",
+  "requestFramePermissions": []
+}
